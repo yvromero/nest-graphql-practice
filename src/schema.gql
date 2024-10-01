@@ -1,0 +1,10 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+type Query {
+  """Tervetuloa"""
+  Terve: String!
+  randomNumber: Float!
+  randomFromZeroTo: Int!
+}
